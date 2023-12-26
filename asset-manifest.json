@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appReact/static/css/main.97555e94.css",
+    "main.js": "/appReact/static/js/main.e948bf6a.js",
+    "index.html": "/appReact/index.html",
+    "static/media/delete.svg": "/appReact/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/appReact/static/media/check.1588521d2b9a58a84c4fbcf28251bb42.svg",
+    "main.97555e94.css.map": "/appReact/static/css/main.97555e94.css.map",
+    "main.e948bf6a.js.map": "/appReact/static/js/main.e948bf6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97555e94.css",
+    "static/js/main.e948bf6a.js"
+  ]
+}
