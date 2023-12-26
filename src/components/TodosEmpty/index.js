@@ -4,7 +4,7 @@ import React from 'react';
 function TodoEmpty(){
    
         return(
-           <p>Crea tu primer to do</p>    
+           <p>Create your new to do</p>    
         );
     
     }

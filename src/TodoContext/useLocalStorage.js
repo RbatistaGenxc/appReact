@@ -52,3 +52,17 @@ function useLocalStorage(itemName, initialValue){
  }
 
  export {useLocalStorage}
+
+
+ // const dTodo=[
+//   {text:"Instalar VsCode", completed:true},
+//   {text:"Instalar Docker", completed:false},
+//   {text:"Instalar Github", completed:false},
+//   {text:"Aprender react", completed:false},
+//   {text:"Aprender next", completed:false},
+//   {text:"Instalar Node js", completed:true},
+// ]
+
+// localStorage.setItem('toDos_V1', JSON.stringify(dTodo));
+
+// localStorage.removeItem('toDos_V1');
